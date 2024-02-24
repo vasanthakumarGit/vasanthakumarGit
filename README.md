@@ -1,4 +1,3 @@
-[![MasterHead](https://avangarde-software.com/wp-content/uploads/2019/12/Virtual-Reality-1.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm VASANTHAKUMAR</h1>
 <h3 align="center">A passionate 👨‍💻Unity & AR/VR developer and 🎓 AI and Data Science Enthusiast from India</h3>
