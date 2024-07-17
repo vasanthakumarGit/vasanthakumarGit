@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!!👋, I'm VASANTHAKUMAR</h1>
+<h1 align="center">Hi 👋, I'm VASANTHAKUMAR</h1>
 <h3 align="center">A passionate 👨‍💻Unity & AR/VR developer and 🎓 AI and Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.easternts.com/wp-content/uploads/2023/01/05Techfix-illo-superJumbo.gif">
 
@@ -16,6 +16,8 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+<img src="https://img.icons8.com/color/48/000000/virtual-reality.png" alt="vr" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/augmented-reality.png" alt="ar" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanthakumargit&show_icons=true&locale=en&layout=compact" alt="vasanthakumargit" /></p>
